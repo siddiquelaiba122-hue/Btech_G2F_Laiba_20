@@ -1,2 +1,2 @@
-# Btech_G2F_Laiba_20
+# Btech_Laiba_sid
 C Programs
